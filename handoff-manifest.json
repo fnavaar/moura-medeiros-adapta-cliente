@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "adapta-cliente-handoff/v1",
+  "phase": 1,
+  "versions": {
+    "package": "1.0.0",
+    "adapta": "1.0.0",
+    "adaptaCliente": "1.0.0"
+  },
+  "generatedAt": "2026-09-14T18:49:00Z",
+  "files": [
+    {
+      "path": ".adapta-cliente/estado-atual.md",
+      "sha256": "25304a0d445bc6278b1e9be291ce775252d7752a8ab2afd3d4eff7aa53372a72",
+      "classification": "template-publico"
+    },
+    {
+      "path": ".claude/settings.json",
+      "sha256": "67453c204e2e628f7118e9a938b64aabcf659bbddbc351a0fb95ba14c6373c8c",
+      "classification": "template-publico"
+    },
+    {
+      "path": "01_projeto/README.md",
+      "sha256": "3aabbcaa7e054561837d605d88aa67483cf4faa5fff48e02ee50d1ab868a56a3",
+      "classification": "template-publico"
+    },
+    {
+      "path": "01_projeto/constituicao.md",
+      "sha256": "5188227888594d70c10534f9b3fbfac2f73b3bce6e449b463d1b59c57816d0fb",
+      "classification": "template-publico"
+    },
+    {
+      "path": "01_projeto/objetivo-e-visao.md",
+      "sha256": "c116c36cbba79bbf16fe2f6305610e9ce91bfa8824721c8aceaaae3d7805418f",
+      "classification": "template-publico"
+    },
+    {
+      "path": "01_projeto/visao-do-projeto.md",
+      "sha256": "6bd15f1eb743bc48ce5c249faf83068a9a1cacf62961906904e368cf77b9efd3",
+      "classification": "template-publico"
+    },
+    {
+      "path": "02_reunioes/2026-09-14-ata-de-corte.md",
+      "sha256": "cf26b9c4e4654cf220a951a2626ee46b4093f154c17347bef7de41640982323b",
+      "classification": "template-publico"
+    },
+    {
+      "path": "02_reunioes/README.md",
+      "sha256": "c121870780c72fc280f2b50f62a9284306935e27e04bf34679987bba668f070f",
+      "classification": "template-publico"
+    },
+    {
+      "path": "03_documentos/README.md",
+      "sha256": "ac7ab2620ed8a52a103c604ffef0c448d6ac1a023528262bec6678a677f9adac",
+      "classification": "template-publico"
+    },
+    {
+      "path": "03_documentos/setup-ethos/00-INDICE.md",
+      "sha256": "4575bab020c55de6f67c2c72b97b5a49f450410e1e4867d8bba805816b029641",
+      "classification": "template-publico"
+    },
+    {
+      "path": "03_documentos/setup-ethos/IDENTITY.md",
+      "sha256": "89fcc42491b0b09f2ca95b843f8e86acb9651c14e48819f486bec864a04cd0e0",
+      "classification": "template-publico"
+    },
+    {
+      "path": "03_documentos/setup-ethos/SOUL.md",
+      "sha256": "5020bd5f039c2ff9f4e2ab0ec6b0e9e0859e2ad814ae96675e52d7beb12582ee",
+      "classification": "template-publico"
+    },
+    {
+      "path": "03_documentos/setup-ethos/USER.md",
+      "sha256": "90fc12aac8762b0dcc546c0fd9962d7324ab97069fcb264d4bc3f3725370e806",
+      "classification": "template-publico"
+    },
+    {
+      "path": "03_documentos/setup-ethos/mapa-de-agentes-e-loops.md",
+      "sha256": "f3b7137354c2d0fe35f0126b53e02fb6aec777d57a5bfc5c49162ce5aba7d77d",
+      "classification": "template-publico"
+    },
+    {
+      "path": "03_documentos/setup-ethos/sugestoes-conectores-automacoes.md",
+      "sha256": "1031579e23a6a6c5f6f92f2e23a83f1fcd56fc2585887f94954572dcb1e08140",
+      "classification": "template-publico"
+    },
+    {
+      "path": "04_fase-atual/fase.md",
+      "sha256": "97974d29d7d5ebcc8a5bd919592f0b1dd0c49639b5446cf68c149e99aef398e9",
+      "classification": "fase-atual"
+    },
+    {
+      "path": "04_fase-atual/specs/spec-1-001.md",
+      "sha256": "e29ff78c5d416b7a2ea9922a9d611cf2f0e7ee89b97003edf2698ad405925f14",
+      "classification": "spec-fase-atual"
+    },
+    {
+      "path": "04_fase-atual/specs/spec-1-002.md",
+      "sha256": "df2665e4908628f4ffa3e8c75dc3cc50231e98f7da2aaca05efc41079c519fee",
+      "classification": "spec-fase-atual"
+    },
+    {
+      "path": "04_fase-atual/specs/spec-1-003.md",
+      "sha256": "80560864977992731784694fd8ca00348cebe27bde158d1dc2b5475ff393dcfe",
+      "classification": "spec-fase-atual"
+    },
+    {
+      "path": "04_fase-atual/specs/spec-1-004.md",
+      "sha256": "4c48d39ee28fb59f82197dbb67de944eebacb7968380a308d3d999596f1ed248",
+      "classification": "spec-fase-atual"
+    },
+    {
+      "path": "05_entregas/README.md",
+      "sha256": "7f9dede08af856cbd8287fac72858f3e9a7ab5a6f86db0e11cfd1594d9faffdc",
+      "classification": "template-publico"
+    },
+    {
+      "path": "06_notas/README.md",
+      "sha256": "5f3f6b0cc0575c973180786649df273534ad1fc33ad54eb62c2ff82d89c959d9",
+      "classification": "template-publico"
+    },
+    {
+      "path": "06_notas/aprendizado-continuo/README.md",
+      "sha256": "b675d358a5d2895e3c760d57e4b6bd20b0290b1c109ff0235290550b6cf9a589",
+      "classification": "template-publico"
+    },
+    {
+      "path": "06_notas/aprendizado-continuo/controle.md",
+      "sha256": "66b24dad404bd1015f98eb118ceb128dcaed8839f88a339ec0252d8faca5516a",
+      "classification": "template-publico"
+    },
+    {
+      "path": "06_notas/debug/README.md",
+      "sha256": "c02a7de76c616bda0fb4bbf7458148dc3bae61895cbc514f7044f8eba89f6aa4",
+      "classification": "template-publico"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "bdb062740522f3f5598099148fb507138385b021867c1253f5aeeb5650083110",
+      "classification": "template-publico"
+    },
+    {
+      "path": "CLAUDE.md",
+      "sha256": "5e6fb7c8636c9fcf4a5c3954e54559dc353f71d229c923e3fad66221979ef4dd",
+      "classification": "template-publico"
+    },
+    {
+      "path": "README.md",
+      "sha256": "308775a27de3253d28be143805dcd9b4a37e02851515834c77b11762c9a5d36e",
+      "classification": "template-publico"
+    },
+    {
+      "path": "STATUS.md",
+      "sha256": "8dceffcb936a170ba8cbab70f0f640d743e340695f68da3c17b17bd92be4797f",
+      "classification": "template-publico"
+    },
+    {
+      "path": "changelog.md",
+      "sha256": "068fa93462d91a5775bae7b537d73cf590cc6577788434b0c4901cc5572650a0",
+      "classification": "template-publico"
+    }
+  ]
+}
