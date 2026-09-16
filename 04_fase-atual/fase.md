@@ -5,7 +5,7 @@
 Cada linha abaixo representa uma entrega da primeira fase do Portal Agrojur. O título explica o resultado esperado para o cliente; a descrição mantém a referência técnica necessária para a execução. Os identificadores ao fim das linhas são controles de sincronização do portal e não devem ser alterados manualmente.
 
 - [ ] Preparar o ambiente de construção do Portal Agrojur @Celso !22/09/2026 <!-- id:36b8c091-91ab-42c0-ba98-b7a1165649a0 -->
-  > Deixar o projeto, o repositório e uma versão de teste prontos para começar a construção com segurança, sem publicar conteúdo real. Antes de iniciar, confirmar qual ambiente será usado e quem pode acessar a prévia. Referência técnica: SPEC-1-001 · CA-1-001..002 · Leva 1 · ELEGÍVEL.
+  > Deixar o projeto, o repositório e uma versão de teste prontos para começar a construção com segurança, sem publicar conteúdo real. Antes de iniciar, confirmar qual ambiente será usado e quem pode acessar a prévia. Referência técnica: SPEC-1-001 · CA-1-001..002 · Leva 1 · BLOQUEADA — implementação e teste humano aprovados; CA-1-001 pendente por falta de evidência observável do vínculo Skip↔GitHub.
 
 - [ ] Criar uma área segura para organizar e publicar conteúdos @Celso !22/09/2026 <!-- id:4c971129-9318-45a5-9122-5a639da9b05e -->
   > Organizar os conteúdos por etapa de trabalho e garantir que somente pessoas autorizadas possam criar, revisar ou publicar. Conteúdo incompleto ou acesso indevido deve ser recusado. Referência técnica: SPEC-1-001 · CA-1-003..005 · Leva 2 · BLOQUEADA — consultar os pré-requisitos na SPEC.
@@ -13,7 +13,7 @@ Cada linha abaixo representa uma entrega da primeira fase do Portal Agrojur. O t
 - [ ] Confirmar a segurança e a recuperação da área editorial @Celso !22/09/2026 <!-- id:9eb718d6-448e-4298-9380-014e4cf90018 -->
   > Testar situações de erro e acesso indevido, além de provar que um conteúdo pode sair do ar e ser recuperado. Referência técnica: SPEC-1-001 · CA-1-006 · Leva 3 · BLOQUEADA — consultar os pré-requisitos na SPEC.
 
-- [ ] Organizar os conteúdos do primeiro tema do portal @Celso !22/09/2026 <!-- id:f17d2817-58f2-43b9-a8aa-ef3be40dd3f8 -->
+- [ ] Organizar os conteúdos do primeiro tema do portal @Celso !22/09/2026 <!-- id:f17d2817-58f2-43b9-a8aa-ef3be40dd3f3 -->
   > Reunir e aprovar os conteúdos, fontes, responsáveis pela revisão e textos principais que formarão o primeiro tema do Portal Agrojur. Nada será publicado nesta etapa. Referência técnica: SPEC-1-002 · preparação B1-CONT-01 + checklist da SPEC-1-002 · Leva 4 · BLOQUEADA — consultar os pré-requisitos na SPEC.
 
 - [ ] Montar a primeira jornada pública de conteúdo do Agrojur @Celso !22/09/2026 <!-- id:be77ef7e-2270-4d03-be1f-c554f607b848 -->
@@ -33,3 +33,11 @@ Cada linha abaixo representa uma entrega da primeira fase do Portal Agrojur. O t
 
 - [ ] Organizar a qualificação e o acompanhamento dos contatos @Celso !22/09/2026 <!-- id:db228cef-8d68-4f7d-bfca-b47d8ef9de3f -->
   > Permitir que a equipe analise cada contato, indique sua origem, defina manualmente se ele é qualificado e acompanhe os resultados sem expor dados pessoais. O sistema não decidirá sozinho quem é um lead qualificado. Referência técnica: SPEC-1-004 · CA-1-022..024 · Leva 5 · BLOQUEADA — consultar os pré-requisitos na SPEC.
+
+## Emendas
+
+<!-- Append-only: mudanças aprovadas depois da geração. -->
+
+| Data | Origem do sinal | Micro-spec/task | Motivo |
+|---|---|---|---|
+| 2026-09-16 | Teste humano aprovado e revalidação do preview | F1-T01 | Implementação aprovada; fechamento formal aguarda evidência observável do vínculo Skip↔GitHub (CA-1-001). |
