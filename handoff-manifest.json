@@ -8,35 +8,155 @@
   },
   "generatedAt": "2026-09-14T18:49:00Z",
   "files": [
-    {"path":".adapta-cliente/estado-atual.md","sha256":"6e683ec523306a6df8dddd889e2a520f94db8722040e2bf1c9e678f85d0f74c6","classification":"template-publico"},
-    {"path":".claude/settings.json","sha256":"67453c204e2e628f7118e9a938b64aabcf659bbddbc351a0fb95ba14c6373c8c","classification":"template-publico"},
-    {"path":"01_projeto/README.md","sha256":"e765950fc3419dff7390eb7c74aa96d7c64704604119845b5d1891fa81a8f4f5","classification":"template-publico"},
-    {"path":"01_projeto/constituicao.md","sha256":"77b601da61774e6a0455fb0ecde8bc4575860002a992698667315d2ec14803d5","classification":"template-publico"},
-    {"path":"01_projeto/objetivo-e-visao.md","sha256":"d76912be0007ed1f8d7618f321af20561f988ca9394631ee35899014aa104247","classification":"template-publico"},
-    {"path":"01_projeto/visao-do-projeto.md","sha256":"995f42a9dac279b25bc2f88802881448c93740b19258deb00b31aaf6617277c6","classification":"template-publico"},
-    {"path":"02_reunioes/2026-09-14-ata-de-corte.md","sha256":"46835f39f7abe9469bce068aa01eb836d908a048949651b604539d862c2d4bc6","classification":"template-publico"},
-    {"path":"02_reunioes/README.md","sha256":"3f89356c684681fee6442d07df7d8b0dd0aa777e03948c652e93d38217058fdc","classification":"template-publico"},
-    {"path":"03_documentos/README.md","sha256":"41bae8d2219baf045cd937fbb0ad1c833f04e9696bd476fde6969cebbe77d992","classification":"template-publico"},
-    {"path":"03_documentos/setup-ethos/00-INDICE.md","sha256":"27c4141862e2bdcffb92368e7760219ad617a752ecb7632cf57eca875ca92386","classification":"template-publico"},
-    {"path":"03_documentos/setup-ethos/IDENTITY.md","sha256":"34b27ec07158ab6b4e8ba80dc0990af1b64932d13b7e70370dde7749218059c5","classification":"template-publico"},
-    {"path":"03_documentos/setup-ethos/SOUL.md","sha256":"4832c12095e931e0356aa72ac6baaeda10cfdf0098a0163b1bf2939774bba6c6","classification":"template-publico"},
-    {"path":"03_documentos/setup-ethos/USER.md","sha256":"b44c545a59bf3db8036a798a7e2f4ca07f7ad3c0cff21eb0621574f14197e9aa","classification":"template-publico"},
-    {"path":"03_documentos/setup-ethos/mapa-de-agentes-e-loops.md","sha256":"3a0bb7339cfcfaa68fcf5c3664f7793ff391c1d672d7630d8c3dee4e5b3119e8","classification":"template-publico"},
-    {"path":"03_documentos/setup-ethos/sugestoes-conectores-automacoes.md","sha256":"c97be547d6603486354f39fd25e1b49ca222f61900fa65ba7c082a4b5ec1e859","classification":"template-publico"},
-    {"path":"04_fase-atual/fase.md","sha256":"bc6ab943ffe8e2831213f43aa71ee47f4af243e55951767550487e5060a6bd87","classification":"fase-atual"},
-    {"path":"04_fase-atual/specs/spec-1-001.md","sha256":"5493bddeb9a6b8dfa11b724c21e59c32944dadf6da83e212011a79ce6482fc7d","classification":"spec-fase-atual"},
-    {"path":"04_fase-atual/specs/spec-1-002.md","sha256":"ddda3aaffcd0c6ec1d21f86a04d2cc152512c5293a9d164ab738279c88d69f2b","classification":"spec-fase-atual"},
-    {"path":"04_fase-atual/specs/spec-1-003.md","sha256":"61b72ff68566831ae2f7cc922a67633439d3536ce83ba275eed68fa4e678e7c1","classification":"spec-fase-atual"},
-    {"path":"04_fase-atual/specs/spec-1-004.md","sha256":"1869ac850f12aa7fd77dd395fa14dea0c703b0f6aeb4c8b2d7ee1ea47ea3842a","classification":"spec-fase-atual"},
-    {"path":"05_entregas/README.md","sha256":"e8aad325de47bc998bbe50c9f382f7f0377a0bd98984badcc6f8265e6caef67e","classification":"template-publico"},
-    {"path":"06_notas/README.md","sha256":"bf806fd4df368ab6273ff872efe10c09ca39239bf419a49cf290041be526ce27","classification":"template-publico"},
-    {"path":"06_notas/aprendizado-continuo/README.md","sha256":"a737299af4bf7bd8aa0decec89d6352521331e364d3032e21e43eefc74e39ffa","classification":"template-publico"},
-    {"path":"06_notas/aprendizado-continuo/controle.md","sha256":"2cad1fd8caaac8dafcbf3525068f02f6d50b99631b14cf96042190735796bd18","classification":"template-publico"},
-    {"path":"06_notas/debug/README.md","sha256":"e05d27f3f4c0d7eb40b28578c4042ea22cac7a02f627edc4ed5ba55f9eceaa5e","classification":"template-publico"},
-    {"path":"AGENTS.md","sha256":"ced7c8341be8567faffb1a7d532b5e750bb88045a58fef4ce03584b8353a7840","classification":"template-publico"},
-    {"path":"CLAUDE.md","sha256":"9f2091f4f7741e556bf551dd178c62c4639f78a3ce29507b36b4d6ab9428abd6","classification":"template-publico"},
-    {"path":"README.md","sha256":"714d4bd37e4b48564fa764175964824eeb256ceefd490a650c0581176ccecf57","classification":"template-publico"},
-    {"path":"STATUS.md","sha256":"ee4b03ebca8e8adaf283583467b99f9c089fa12cff8d1920f60b23da92503831","classification":"template-publico"},
-    {"path":"changelog.md","sha256":"c4a2307a1f704a740e1ac4168d2039a692be0df8bc5f572054bceb199568ab9f","classification":"template-publico"}
+    {
+      "path": ".adapta-cliente/estado-atual.md",
+      "sha256": "6e683ec523306a6df8dddd889e2a520f94db8722040e2bf1c9e678f85d0f74c6",
+      "classification": "template-publico"
+    },
+    {
+      "path": ".claude/settings.json",
+      "sha256": "67453c204e2e628f7118e9a938b64aabcf659bbddbc351a0fb95ba14c6373c8c",
+      "classification": "template-publico"
+    },
+    {
+      "path": "01_projeto/README.md",
+      "sha256": "e765950fc3419dff7390eb7c74aa96d7c64704604119845b5d1891fa81a8f4f5",
+      "classification": "template-publico"
+    },
+    {
+      "path": "01_projeto/constituicao.md",
+      "sha256": "77b601da61774e6a0455fb0ecde8bc4575860002a992698667315d2ec14803d5",
+      "classification": "template-publico"
+    },
+    {
+      "path": "01_projeto/objetivo-e-visao.md",
+      "sha256": "d76912be0007ed1f8d7618f321af20561f988ca9394631ee35899014aa104247",
+      "classification": "template-publico"
+    },
+    {
+      "path": "01_projeto/visao-do-projeto.md",
+      "sha256": "995f42a9dac279b25bc2f88802881448c93740b19258deb00b31aaf6617277c6",
+      "classification": "template-publico"
+    },
+    {
+      "path": "02_reunioes/2026-09-14-ata-de-corte.md",
+      "sha256": "46835f39f7abe9469bce068aa01eb836d908a048949651b604539d862c2d4bc6",
+      "classification": "template-publico"
+    },
+    {
+      "path": "02_reunioes/README.md",
+      "sha256": "3f89356c684681fee6442d07df7d8b0dd0aa777e03948c652e93d38217058fdc",
+      "classification": "template-publico"
+    },
+    {
+      "path": "03_documentos/README.md",
+      "sha256": "41bae8d2219baf045cd937fbb0ad1c833f04e9696bd476fde6969cebbe77d992",
+      "classification": "template-publico"
+    },
+    {
+      "path": "03_documentos/setup-ethos/00-INDICE.md",
+      "sha256": "27c4141862e2bdcffb92368e7760219ad617a752ecb7632cf57eca875ca92386",
+      "classification": "template-publico"
+    },
+    {
+      "path": "03_documentos/setup-ethos/IDENTITY.md",
+      "sha256": "34b27ec07158ab6b4e8ba80dc0990af1b64932d13b7e70370dde7749218059c5",
+      "classification": "template-publico"
+    },
+    {
+      "path": "03_documentos/setup-ethos/SOUL.md",
+      "sha256": "4832c12095e931e0356aa72ac6baaeda10cfdf0098a0163b1bf2939774bba6c6",
+      "classification": "template-publico"
+    },
+    {
+      "path": "03_documentos/setup-ethos/USER.md",
+      "sha256": "b44c545a59bf3db8036a798a7e2f4ca07f7ad3c0cff21eb0621574f14197e9aa",
+      "classification": "template-publico"
+    },
+    {
+      "path": "03_documentos/setup-ethos/mapa-de-agentes-e-loops.md",
+      "sha256": "3a0bb7339cfcfaa68fcf5c3664f7793ff391c1d672d7630d8c3dee4e5b3119e8",
+      "classification": "template-publico"
+    },
+    {
+      "path": "03_documentos/setup-ethos/sugestoes-conectores-automacoes.md",
+      "sha256": "c97be547d6603486354f39fd25e1b49ca222f61900fa65ba7c082a4b5ec1e859",
+      "classification": "template-publico"
+    },
+    {
+      "path": "04_fase-atual/fase.md",
+      "sha256": "248f8775bf5719a7df17d8473690c060e7d0b53a069e8192815957bc292bc2b0",
+      "classification": "fase-atual"
+    },
+    {
+      "path": "04_fase-atual/specs/spec-1-001.md",
+      "sha256": "5493bddeb9a6b8dfa11b724c21e59c32944dadf6da83e212011a79ce6482fc7d",
+      "classification": "spec-fase-atual"
+    },
+    {
+      "path": "04_fase-atual/specs/spec-1-002.md",
+      "sha256": "ddda3aaffcd0c6ec1d21f86a04d2cc152512c5293a9d164ab738279c88d69f2b",
+      "classification": "spec-fase-atual"
+    },
+    {
+      "path": "04_fase-atual/specs/spec-1-003.md",
+      "sha256": "61b72ff68566831ae2f7cc922a67633439d3536ce83ba275eed68fa4e678e7c1",
+      "classification": "spec-fase-atual"
+    },
+    {
+      "path": "04_fase-atual/specs/spec-1-004.md",
+      "sha256": "1869ac850f12aa7fd77dd395fa14dea0c703b0f6aeb4c8b2d7ee1ea47ea3842a",
+      "classification": "spec-fase-atual"
+    },
+    {
+      "path": "05_entregas/README.md",
+      "sha256": "e8aad325de47bc998bbe50c9f382f7f0377a0bd98984badcc6f8265e6caef67e",
+      "classification": "template-publico"
+    },
+    {
+      "path": "06_notas/README.md",
+      "sha256": "bf806fd4df368ab6273ff872efe10c09ca39239bf419a49cf290041be526ce27",
+      "classification": "template-publico"
+    },
+    {
+      "path": "06_notas/aprendizado-continuo/README.md",
+      "sha256": "a737299af4bf7bd8aa0decec89d6352521331e364d3032e21e43eefc74e39ffa",
+      "classification": "template-publico"
+    },
+    {
+      "path": "06_notas/aprendizado-continuo/controle.md",
+      "sha256": "2cad1fd8caaac8dafcbf3525068f02f6d50b99631b14cf96042190735796bd18",
+      "classification": "template-publico"
+    },
+    {
+      "path": "06_notas/debug/README.md",
+      "sha256": "e05d27f3f4c0d7eb40b28578c4042ea22cac7a02f627edc4ed5ba55f9eceaa5e",
+      "classification": "template-publico"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "ced7c8341be8567faffb1a7d532b5e750bb88045a58fef4ce03584b8353a7840",
+      "classification": "template-publico"
+    },
+    {
+      "path": "CLAUDE.md",
+      "sha256": "9f2091f4f7741e556bf551dd178c62c4639f78a3ce29507b36b4d6ab9428abd6",
+      "classification": "template-publico"
+    },
+    {
+      "path": "README.md",
+      "sha256": "714d4bd37e4b48564fa764175964824eeb256ceefd490a650c0581176ccecf57",
+      "classification": "template-publico"
+    },
+    {
+      "path": "STATUS.md",
+      "sha256": "ee4b03ebca8e8adaf283583467b99f9c089fa12cff8d1920f60b23da92503831",
+      "classification": "template-publico"
+    },
+    {
+      "path": "changelog.md",
+      "sha256": "c4a2307a1f704a740e1ac4168d2039a692be0df8bc5f572054bceb199568ab9f",
+      "classification": "template-publico"
+    }
   ]
 }
