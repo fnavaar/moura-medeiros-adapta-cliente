@@ -7,7 +7,7 @@
 - autorizacao_implementacao: confirmada em 2026-09-22T17:43-03:00 — “IMPLEMENTE”
 - teste_humano: pendente
 - verificacao_automatica: passou — pacote B1-CONT-01 v0.1.0-draft; JSON, índice, diff, PII, segredos e políticas verificados; manifesto não importável
-- aprendizado: pendente
+- aprendizado: capturado:06_notas/aprendizado-continuo/AP-2026-09-25-2100-workspace-rebuild-sync.md
 - ultima_acao: pacote documental B1-CONT-01 preparado em `04-fase-atual/b1-cont-01/`; nenhuma publicação, importação ou conteúdo jurídico real foi executado
 - proxima_acao: Celso revisar o pacote B1-CONT-01 e informar aceite ou ajustes
-- atualizado_em: 2026-09-22T17:53:00-03:00
+- atualizado_em: 2026-09-25T21:05:00-03:00

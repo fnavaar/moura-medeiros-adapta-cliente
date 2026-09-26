@@ -5,3 +5,4 @@ Nenhum aprendizado promovido.
 
 - 2026-09-20T23:52:00-03:00 · task F1-T02 · aprendizado promovido em `06_notas/aprendizado-continuo/AP-2026-09-20-2352-rls-editorial.md` · invariantes de publicação devem estar no RLS efetivo; prova negativa e schema vivo confirmaram a correção.
 - 2026-09-22T12:03:00-03:00 · task F1-T03 · aprendizado promovido em `06_notas/aprendizado-continuo/AP-2026-09-22-1203-credencial-preview.md` · handoff de teste deve entregar URL, credencial sintética e resultado esperado; não registrar a senha no aprendizado.
+- 2026-09-25T21:05:00-03:00 · task F1-T04 · aprendizado promovido em `06_notas/aprendizado-continuo/AP-2026-09-25-2100-workspace-rebuild-sync.md` · rebuild do workspace apaga plugins/repos e trabalho não sincronizado; restauração reproduzível e sincronização confirmada no commit remoto 66d823e.
