@@ -7,14 +7,14 @@ Cada linha abaixo representa uma entrega da primeira fase do Portal Agrojur. O t
 - [x] Preparar o ambiente de construção do Portal Agrojur @Celso !22/09/2026 <!-- id:36b8c091-91ab-42c0-ba98-b7a1165649a0 -->
   > Deixar o projeto, o repositório e uma versão de teste prontos para começar a construção com segurança, sem publicar conteúdo real. Antes de iniciar, confirmar qual ambiente será usado e quem pode acessar a prévia. Referência técnica: SPEC-1-001 · CA-1-001..002 · Leva 1 · CONCLUÍDA em 16/09/2026 — projeto Skip 58949, preview público noindex, repositório gerado pelo Skip e aceite humano confirmados.
 
-- [ ] Criar uma área segura para organizar e publicar conteúdos @Celso !22/09/2026 <!-- id:4c971129-9318-45a5-9122-5a639da9b05e -->
-  > Organizar os conteúdos por etapa de trabalho e garantir que somente pessoas autorizadas possam criar, revisar ou publicar. Conteúdo incompleto ou acesso indevido deve ser recusado. Referência técnica: SPEC-1-001 · CA-1-003..005 · Leva 2 · ELEGÍVEL — F1-T01 aceita; análise e autorização pendentes.
+- [x] Criar uma área segura para organizar e publicar conteúdos @Celso !22/09/2026 <!-- id:4c971129-9318-45a5-9122-5a639da9b05e -->
+  > Organizar os conteúdos por etapa de trabalho e garantir que somente pessoas autorizadas possam criar, revisar ou publicar. Conteúdo incompleto ou acesso indevido deve ser recusado. Referência técnica: SPEC-1-001 · CA-1-003..005 · Leva 2 · CONCLUÍDA em 20/09/2026 — modelo editorial persistente, autenticação, RBAC server-side, histórico de versões, provas negativas e aceite humano no preview.
 
-- [ ] Confirmar a segurança e a recuperação da área editorial @Celso !22/09/2026 <!-- id:9eb718d6-448e-4298-9380-014e4cf90018 -->
-  > Testar situações de erro e acesso indevido, além de provar que um conteúdo pode sair do ar e ser recuperado. Referência técnica: SPEC-1-001 · CA-1-006 · Leva 3 · BLOQUEADA — consultar os pré-requisitos na SPEC.
+- [x] Confirmar a segurança e a recuperação da área editorial @Celso !22/09/2026 <!-- id:9eb718d6-448e-4298-9380-014e4cf90018 -->
+  > Testar situações de erro e acesso indevido, além de provar que um conteúdo pode sair do ar e ser recuperado. Referência técnica: SPEC-1-001 · CA-1-006 · Leva 3 · CONCLUÍDA em 22/09/2026 — histórico restrito, rota autenticada, recuperação ARCHIVED→IN_REVIEW, nova aprovação antes de republicar, QA e aceite humano no preview.
 
 - [ ] Organizar os conteúdos do primeiro tema do portal @Celso !22/09/2026 <!-- id:f17d2817-58f2-43b9-a8aa-ef3be40dd3f3 -->
-  > Reunir e aprovar os conteúdos, fontes, responsáveis pela revisão e textos principais que formarão o primeiro tema do Portal Agrojur. Nada será publicado nesta etapa. Referência técnica: SPEC-1-002 · preparação B1-CONT-01 + checklist da SPEC-1-002 · Leva 4 · BLOQUEADA — consultar os pré-requisitos na SPEC.
+  > Reunir e aprovar os conteúdos, fontes, responsáveis pela revisão e textos principais que formarão o primeiro tema do Portal Agrojur. Nada será publicado nesta etapa. Referência técnica: SPEC-1-002 · preparação B1-CONT-01 + checklist da SPEC-1-002 · Leva 4 · EM TESTE HUMANO — pacote B1-CONT-01 v0.1.0-draft preparado; aprovação de Celso pendente.
 
 - [ ] Montar a primeira jornada pública de conteúdo do Agrojur @Celso !22/09/2026 <!-- id:be77ef7e-2270-4d03-be1f-c554f607b848 -->
   > Criar, em ambiente de teste, o caminho que leva o visitante da página inicial ao tema, ao conteúdo e à próxima ação, usando somente materiais previamente aprovados. Referência técnica: SPEC-1-002 · CA-1-007..009 · Leva 5 · BLOQUEADA — consultar os pré-requisitos na SPEC.

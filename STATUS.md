@@ -8,9 +8,11 @@
 **Projeto Skip:** Agrojur · ID `58949` · preview `https://agrojur-436c9--preview.goskip.app` · produção não publicada
 
 - 4 SPECs, CA-1-001..024.
-- 10 tasks, deadline 22/09/2026; **1 concluída formalmente (10%)**.
+- 10 tasks, deadline 22/09/2026; **3 concluídas formalmente (30%)**.
 - F1-T01 concluída: projeto Skip, preview público noindex, repositório gerado pelo Skip, commits de sincronização/implementação, QA oficial e teste humano aprovados.
-- F1-T02 é a próxima task tecnicamente elegível; análise e autorização ainda não iniciadas.
-- F1-T03..F1-T10 permanecem bloqueadas pelos pré-requisitos das respectivas SPECs.
+- F1-T02 concluída: modelo editorial persistente, autenticação, RBAC server-side, histórico de versões, recusa de publicação incompleta/indevida, rollback por arquivamento, QA oficial e teste humano aprovados na versão Skip 0.0.10 (`83e9d05`).
+- F1-T03 concluída: regressão de segurança e rollback editorial aprovados no Skip v0.0.11 (`644a0c7`), migration `0008_secure_history_recovery` aplicada, histórico restrito, recuperação controlada e nova aprovação antes de republicar validados; aceite humano de Celso confirmado no preview em 22/09/2026.
+- F1-T04: pacote documental B1-CONT-01 v0.1.0-draft preparado; verificações automatizáveis passaram; revisão/aceite humano de Celso pendente. Nenhum conteúdo jurídico real foi criado ou importado.
+- F1-T05..F1-T10 permanecem bloqueadas pelos pré-requisitos das respectivas SPECs; nenhuma delas foi iniciada.
 - Produção não publicada; conteúdo jurídico real e coleta de dados não ativados.
 - Evidência do vínculo: repositório `cbmadvmoura-cell/agrojur-9d0q1w5lj` criado em 16/09/2026, descrito como projeto gerado pelo Skip para Agrojur, com `Initial sync: Agrojur` e o commit `42173df7a995a6195b3bb56b53418adc809e0498` da implementação da F1-T01.
