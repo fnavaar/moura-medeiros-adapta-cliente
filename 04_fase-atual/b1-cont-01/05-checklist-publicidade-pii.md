@@ -1,6 +1,6 @@
 # B1-CONT-01 — Checklist de publicidade, PII e segurança editorial
 
-- **Estado:** `DRAFT/BLOCKED`
+- **Estado:** `DRAFT/BLOCKED` — foco preliminar aprovado por Celso apenas para orientar o rascunho em 2026-09-26; manifesto não selado, não importável e sem autorização de publicação.
 - **Aplicação:** cada item do manifesto e a copy da home, antes do aceite.
 - **Responsável pelo aceite operacional:** Celso; revisão ética/jurídica conforme organização do escritório.
 

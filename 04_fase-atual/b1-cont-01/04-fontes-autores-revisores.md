@@ -1,14 +1,14 @@
 # B1-CONT-01 — Matriz de fontes, autoria e revisão
 
-- **Estado:** `DRAFT/BLOCKED`
-- **Escopo:** primeiro cluster ainda não definido
+- **Estado:** `DRAFT/BLOCKED` — foco aprovado por Celso apenas para orientar o rascunho em 2026-09-26; manifesto não selado, não importável e sem autorização de publicação.
+- **Escopo:** foco preliminar aprovado por Celso apenas para orientar o rascunho: ajudar produtores a avaliar a recusa bancária de prorrogação de operação de crédito rural já contratada e os documentos que podem ser relevantes para questioná-la, havendo fundamento no caso concreto; linha nova de composição fica separada. Aprovação não define conteúdo final, autores/revisores, fontes temáticas nem autoriza importação/publicação.
 - **Regra:** não preencher nomes, URLs temáticas, datas ou credenciais por inferência.
 
 ## Matriz pendente
 
 | Item/ID | Tema | Tipo | Fonte primária exigida | URL/título | Conferido em | Autor | Revisor temático | Publicidade | PII | Estado |
 |---|---|---|---|---|---|---|---|---|---|---|
-| PILLAR-01 | A definir por Celso | Página pilar | Órgão oficial/legislação/fonte institucional pertinente ao tema | Pendente | Pendente | Pendente | Pendente | Pendente | Pendente | BLOQUEADO |
+| PILLAR-01 | Crédito rural — recusa bancária de prorrogação de operação já contratada (foco preliminar; definição final pendente) | Página pilar | Órgão oficial/legislação/fonte institucional pertinente ao tema | Pendente | Pendente | Pendente | Pendente | Pendente | Pendente | BLOQUEADO |
 | SUPPORT-01 | A definir por Celso | Apoio | Fonte oficial pertinente ao recorte aprovado | Pendente | Pendente | Pendente | Pendente | Pendente | Pendente | BLOQUEADO |
 | SUPPORT-02 | A definir por Celso | Apoio | Fonte oficial pertinente ao recorte aprovado | Pendente | Pendente | Pendente | Pendente | Pendente | Pendente | BLOQUEADO |
 

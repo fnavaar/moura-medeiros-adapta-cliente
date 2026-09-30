@@ -1,10 +1,11 @@
 # B1-CONT-01 — Copy de home para revisão
 
 - **Versão:** `0.1.0-draft`
-- **Estado:** `DRAFT — não aprovada`
+- **Estado:** `DRAFT — rascunho parcial aprovado por Celso em 2026-09-26; não aprovado para publicação`
 - **Uso permitido:** revisão editorial e de publicidade; não publicar como copy selada.
 - **Autor da proposta:** Ethos, a partir das decisões fechadas da Fase 1.
 - **Aprovação necessária:** Celso + revisão de publicidade da advocacia.
+- **Aceite parcial de Celso:** aprovados como rascunho somente título, subtítulo e aviso de conteúdo informativo reproduzidos na conversa de 2026-09-26. Eyebrow, CTAs, estado do portal e checklist seguem pendentes. Este aceite parcial não altera o manifesto, não autoriza importação ou publicação e não conclui a F1-T04.
 
 ## Proposta de copy
 
@@ -19,6 +20,12 @@ Informação jurídica organizada para decisões mais conscientes no agro.
 ### Subtítulo
 
 Conteúdos em preparação para produtores e empresas do agronegócio em Mato Grosso, com fontes identificadas, revisão responsável e linguagem clara.
+
+### Aviso de conteúdo informativo
+
+Conteúdo informativo, com fonte e data de revisão visíveis. O material não substitui análise jurídica individualizada e não promete resultado.
+
+> **Nota do aceite parcial (2026-09-26):** Celso aprovou como rascunho somente os três blocos acima, conforme apresentados na conversa. A aprovação não se estende aos demais itens desta proposta e não autoriza publicação.
 
 ### CTA primário
 
