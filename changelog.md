@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-10-01
+- 2026-10-01 · Celso aprovou a direção das três frentes condicionais como diretriz dos rascunhos do primeiro cluster: manter as três vias sempre disponíveis e escolher conforme o enquadramento do cliente em cada caso — (1) pedido administrativo de prorrogação da operação existente sob o MCR 2-6-4; (2) avaliação da linha nova de composição da MP 1.376/2026 quando produtor e operação cumprirem os critérios; (3) via judicial conforme resposta expressa ou silêncio do agente, com tutela de urgência aferida pelo CPC art. 300. As frentes podem ser coordenadas, não são intercambiáveis e não precisam ser cumuladas em todo caso. Direção de rascunho: não aprova B1-CONT-01, não cria tese final, não autoriza importação nem publicação. Próximo gate: revisão dos blocos restantes da copy da home (eyebrow, CTAs, estado do portal, checklist).
+
 ## 2026-09-22
 - 2026-09-22 · Celso · Task F1-T03 concluída: regressão de segurança e rollback editorial aprovados no preview `https://agrojur-436c9--preview.goskip.app`.
 - Evidências técnicas: Skip v0.0.11 (`644a0c7`), migration `0008_secure_history_recovery` aplicada, histórico restrito, rota autenticada, recuperação `ARCHIVED→IN_REVIEW`, nova aprovação antes de republicar, provas 401/403, autoelevação, slug/fonte/transição, scan e logs sanitizados.

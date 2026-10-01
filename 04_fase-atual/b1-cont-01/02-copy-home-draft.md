@@ -27,6 +27,8 @@ Conteúdo informativo, com fonte e data de revisão visíveis. O material não s
 
 > **Nota do aceite parcial (2026-09-26):** Celso aprovou como rascunho somente os três blocos acima, conforme apresentados na conversa. A aprovação não se estende aos demais itens desta proposta e não autoriza publicação.
 
+> **Diretriz dos rascunhos (2026-10-01):** Celso aprovou a direção das três frentes condicionais — pedido administrativo (MCR 2-6-4), linha nova de composição (MP 1.376/2026, quando houver enquadramento) e via judicial (CPC art. 300, conforme resposta ou silêncio) — a serem mantidas sempre disponíveis e escolhidas conforme o enquadramento do cliente em cada caso. Vale como direção de rascunho; não aprova este pacote nem autoriza publicação.
+
 ### CTA primário
 
 Explorar temas
